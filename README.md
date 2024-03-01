@@ -255,7 +255,7 @@ return 0;
 
 OUTPUT :
 
-![WhatsApp Image 2024-03-01 at 13 13 54_c1bec7a0](https://github.com/HamsiniKannan/Cryptography---19CS412-classical-techqniques/assets/119393929/f85a40b7-bbd4-4919-9695-9c89fef4ae85)
+![WhatsApp Image 2024-03-01 at 13 31 30_d15375c8](https://github.com/HamsiniKannan/Cryptography---19CS412-classical-techqniques/assets/119393929/5d7b09b0-c6a9-4502-8dda-4dd84e235f8f)
 
 
 
@@ -347,6 +347,8 @@ return 0;
 OUTPUT :
 
 ![Screenshot (93)](https://github.com/HamsiniKannan/Cryptography---19CS412-classical-techqniques/assets/119393929/1e28d06a-5d60-4e71-9d05-e873f9a6d842)
+![WhatsApp Image 2024-03-01 at 13 34 11_4a1dabeb](https://github.com/HamsiniKannan/Cryptography---19CS412-classical-techqniques/assets/119393929/3fe819fd-99b9-4b20-9dbc-f572875e9b0d)
+
 
 
 
@@ -475,7 +477,7 @@ return 0;
 
 OUTPUT :
 
-![WhatsApp Image 2024-02-29 at 18 58 29_6469e70a](https://github.com/HamsiniKannan/Cryptography---19CS412-classical-techqniques/assets/119393929/9be6795e-fa4c-4c16-b50d-cc44b8f4405a)
+![WhatsApp Image 2024-03-01 at 13 36 06_fc71a3e8](https://github.com/HamsiniKannan/Cryptography---19CS412-classical-techqniques/assets/119393929/03aa7774-bef7-4471-b969-a2a38c601dd4)
 
 
 
@@ -574,7 +576,7 @@ return 0;
 
 OUTPUT :
 
-![WhatsApp Image 2024-02-29 at 16 29 48_438ddfa4](https://github.com/HamsiniKannan/Cryptography---19CS412-classical-techqniques/assets/119393929/34c56496-7de4-4e4a-b9f9-09764cfd000f)
+![WhatsApp Image 2024-03-01 at 13 36 58_ecbe2a78](https://github.com/HamsiniKannan/Cryptography---19CS412-classical-techqniques/assets/119393929/31c1a22a-a0a6-4f78-b978-6cc452077ba1)
 
 
 
