@@ -255,7 +255,7 @@ return 0;
 
 OUTPUT :
 
-![WhatsApp Image 2024-03-01 at 13 31 30_d15375c8](https://github.com/HamsiniKannan/Cryptography---19CS412-classical-techqniques/assets/119393929/5d7b09b0-c6a9-4502-8dda-4dd84e235f8f)
+![WhatsApp Image 2024-03-01 at 13 38 16_dc97968e](https://github.com/HamsiniKannan/Cryptography---19CS412-classical-techqniques/assets/119393929/31c9f5eb-1a6e-4f8b-a524-3dd3c616b25a)
 
 
 
